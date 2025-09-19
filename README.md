@@ -1,28 +1,36 @@
-# dunya-seyahat-app
-Flutter &amp; SQLite based travel app with login, signup, profile, add post and comment features.
-# Dünya Seyahat App 🌍✈️
+# 🌍✈️ Dünya Seyahat App
 
-A mobile travel application built with **Flutter** and **SQLite**.  
-Users can sign up, log in, explore places, add posts, and comment.  
+Mobil seyahat uygulaması — a mobile travel application built with **Flutter** and **SQLite**.  
+Kullanıcılar kayıt olabilir, giriş yapabilir, mekanları keşfedebilir, post ekleyebilir ve yorum yapabilir.  
+Users can **sign up, log in, explore places, add posts, and comment**.  
 
-## 🚀 Features
-- User login & signup
-- Welcome screen
-- Profile page (view & update info)
-- Add new places (with photo, description)
-- Add comments to posts
-- Popular places (Dubai, France, New York, etc.)
-- Local SQLite database integration
+---
 
-## 🛠️ Technologies
-- Flutter / Dart
-- SQLite
-- Android Studio / VS Code
+## 🚀 Özellikler / Features
+- Kullanıcı girişi & kayıt olma (User login & signup)
+- Hoş geldiniz ekranı (Welcome screen)
+- Profil sayfası (görüntüleme & güncelleme) (Profile page: view & update info)
+- Yeni mekan ekleme (Add new places with photo & description)
+- Yorum ekleme (Add comments to posts)
+- Popüler mekanlar (Dubai, France, New York vb.) (Popular places)
+- **SQLite** veritabanı ile offline çalışma (Local SQLite database integration)
 
-## 📷 Screenshots
-_Add some screenshots here later (login, home, profile, etc.)_
+---
 
-## 📦 How to Run
-```bash
-flutter pub get
-flutter run
+## 🛠️ Teknolojiler / Technologies
+- Flutter / Dart  
+- SQLite  
+- Android Studio / VS Code  
+
+---
+
+## 📦 Çalıştırma / How to Run
+1. Repo’yu klonla / Clone the repository:
+   ```bash
+   git clone https://github.com/99sanam/dunya-seyahat-app.git
+   cd dunya-seyahat-app
+   flutter pub get
+   flutter run
+
+
+👤 Yazar / Author:Bibi Sanam Faizi

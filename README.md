@@ -33,4 +33,4 @@ Users can **sign up, log in, explore places, add posts, and comment**.
    flutter run
 
 
-👤 Yazar / Author:Bibi Sanam Faizi
+👤 Yazar / Author: Sanam Faizi
